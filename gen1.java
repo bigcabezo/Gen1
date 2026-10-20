@@ -30,6 +30,19 @@ public class LeerTeclado {
 
 //----------->Sigo sin tener ni idea de programar así que meto la intro de Darkest Dungeon.<-----------
 
+//¡Ayy, el oro, la fama, el poder!
+//Todo lo tuvo el hombre que en su dia
+//se autoproclamó el rey de los piratas
+//Gold Roger
+//Mas sus últimas palabras
+//no fueron muy afortunadas.
+//"¿Mi tesoro?
+//Lo dejé todo allí, ¡buscadlo si queréis!
+//ojalá se le atragante
+//¡al rufián que lo encuentre!"
+
+//----------->He tenido que insertar la intro de One Piece por petición del cliente<-----------
+
 //Agua. Tierra. Fuego. Aire. Hace mucho tiempo, las cuatro naciones vivían en armonía. 
 //Entonces, todo cambió cuando la Nación del Fuego atacó. 
 //Solo el Avatar, maestro de los cuatro elementos, podía detenerlos, pero cuando el mundo más lo necesitaba, desapareció. 
