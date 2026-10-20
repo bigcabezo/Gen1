@@ -23,3 +23,9 @@ public class LeerTeclado {
 }
 
 //Yo añado cosas pero sigue siendo placeholder todo esto jej.
+
+//Ruin has come to our family.
+
+//You remember our venerable house, opulent and imperial, gazing proudly from its stoic perch above the moor.
+
+//----------->Sigo sin tener ni idea de programar así que meto la intro de Darkest Dungeon.<-----------
