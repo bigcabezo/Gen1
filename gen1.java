@@ -13,4 +13,13 @@ public class LeerTeclado {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Escribe cosas");
-        String nombre = scanner.nextLine();
+        String texto = scanner.nextLine();
+
+        //cambiado string "nombre" por "texto"
+
+        System.out.println("Has escrito: " + texto);
+        scanner.close();
+    }
+}
+
+//Yo añado cosas pero sigue siendo placeholder todo esto jej.
