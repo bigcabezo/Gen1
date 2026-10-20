@@ -29,3 +29,9 @@ public class LeerTeclado {
 //You remember our venerable house, opulent and imperial, gazing proudly from its stoic perch above the moor.
 
 //----------->Sigo sin tener ni idea de programar así que meto la intro de Darkest Dungeon.<-----------
+
+//Agua. Tierra. Fuego. Aire. Hace mucho tiempo, las cuatro naciones vivían en armonía. 
+//Entonces, todo cambió cuando la Nación del Fuego atacó. 
+//Solo el Avatar, maestro de los cuatro elementos, podía detenerlos, pero cuando el mundo más lo necesitaba, desapareció. 
+
+//----------->Añadida intro de Avatar, la leyenda de Aang en branchfeature-test.<-----------
