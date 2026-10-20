@@ -43,6 +43,10 @@ public class LeerTeclado {
 
 //----------->He tenido que insertar la intro de One Piece por petición del cliente<-----------
 
+COSAS ROTASSSS [][][][[]{}{}{}@@@
+^^^^^^^^·······!!!!!!***********]
+EL AVATAR BUENO ES EL DE JAMES CAMERON <- ///esto es mentira y sólo lo pongo por el bien del ejercicio.
+
 //Agua. Tierra. Fuego. Aire. Hace mucho tiempo, las cuatro naciones vivían en armonía. 
 //Entonces, todo cambió cuando la Nación del Fuego atacó. 
 //Solo el Avatar, maestro de los cuatro elementos, podía detenerlos, pero cuando el mundo más lo necesitaba, desapareció. 
